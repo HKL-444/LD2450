@@ -1187,7 +1187,7 @@ sensor:
     icon: mdi:brightness-auto
     #unit_of_measurement: "%"
     attenuation: 11db
-    update_interval: 2s
+    update_interval: 60s
     unit_of_measurement: lux
     filters:
       - lambda: |-
