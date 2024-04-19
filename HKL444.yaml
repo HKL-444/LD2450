@@ -27,7 +27,8 @@ esphome:
 
 preferences:
     flash_write_interval: 5s
-  
+
+  #WEMOS MINI S2
 esp32:
   board: lolin_s2_mini
   variant: ESP32S2
